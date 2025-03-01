@@ -4,8 +4,7 @@
 This project is a **Pacman Maze Game** implemented in **C++** using **SFML** (Simple and Fast Multimedia Library). It features maze navigation, coin collection, ghost interactions, and scoring mechanics.
 
 ## **Author**
-- **Abdul Munhim Hussain (22I-1021)**
-- **Section H**
+- **Abdul Munhim Hussain **
 
 ## **Features**
 - **Pacman Movement:** Move Pacman through the maze using arrow keys.
